@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello! I'm Ankit!</h1>
+<h1>👋 Hello! I'm Ankit!</h1>
 
-<p align="center">
+<p>
 🎓 <strong>BSc IT Student</strong> | 💻 <strong>Aspiring Data Scientist</strong><br>
 📍 <strong>MVLU College</strong>
 </p>
