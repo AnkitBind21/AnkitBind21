@@ -89,11 +89,14 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+# Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=AnkitBind21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnkitBind21&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
+
 #  Profile Visit 
 
 <p align="center">
