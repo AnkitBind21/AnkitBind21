@@ -1,5 +1,5 @@
 
-<h1><div align = "center">👋 Hello! I'm Ankit!</div></h1>
+<h1><div align = "center">Hello! I'm Ankit!</div></h1>
 
 <p>
   <div align = "center">
@@ -14,10 +14,10 @@
 
 <h2>About Me</h2>
 <ul>
-  <li>🔭 Currently diving deep into <strong>Deep Learning</strong> and exploring advanced concepts in <strong>Data Science</strong>.</li>
-  <li>🌱 I'm continuously expanding my skills and knowledge in the field of <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.</li>
-  <li>🤔 I’m looking for help with <strong>React Js</strong></li>
-  <li>📫 How to reach me: https://www.linkedin.com/in/ankit-bind-219104299/</li>
+  <li> Currently diving deep into <strong>Deep Learning</strong> and exploring advanced concepts in <strong>Data Science</strong>.</li>
+  <li> I'm continuously expanding my skills and knowledge in the field of <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.</li>
+  <li> I’m looking for help with <strong>React Js</strong></li>
+  <li> How to reach me: https://www.linkedin.com/in/ankit-bind-219104299/</li>
 </ul>
 
 ## 🌐 Socials:
@@ -77,15 +77,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-# 📈 3D Contribution Graph
+#  3D Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AnkitBind21/AnkitBind21/main/assets/profile-green-animate.svg" alt="3D Contribution Graph">
+<img src="https://raw.githubusercontent.com/AnkitBind21/AnkitBind21/main/assets/profile-night-rainbow.svg" alt="3D Contribution Graph">
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
