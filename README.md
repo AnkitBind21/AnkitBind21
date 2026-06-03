@@ -91,9 +91,7 @@
 
 # Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkitBind21&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitBind21&theme=github-dark&hide_border=true" />
 
 ---
 
