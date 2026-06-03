@@ -89,7 +89,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# Top Contributed Repo
+# GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitBind21&theme=github-dark&hide_border=true" />
 
