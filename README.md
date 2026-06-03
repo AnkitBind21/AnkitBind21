@@ -80,7 +80,7 @@
 # 📈 3D Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AnkitBind21/profile-3d-contrib/main/profile-green-animate.svg" alt="3D Contribution Graph">
+<img src="https://raw.githubusercontent.com/AnkitBind21/AnkitBind21/main/assets/profile-green-animate.svg" alt="3D Contribution Graph">
 </div>
 
 ---
