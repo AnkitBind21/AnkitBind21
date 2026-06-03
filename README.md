@@ -94,8 +94,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AnkitBind21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+### Profile Visit 
 
-[![](https://visitcount.itsvg.in/api?id=AnkitBind21&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkitBind21&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 ###  Snake contributor graph
